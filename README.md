@@ -22,6 +22,33 @@
 19. Write a program to convert a binary number to decimal using a loop.
 20. Write a program to generate a list of all possible combinations of the elements of an inputted list using a loop.
 
+### Array
+1. Write a program to find the largest element in an array.
+2. Write a program to find the sum of all elements in an array.
+3. Write a program to find the average of all elements in an array.
+4. Write a program to count the number of even and odd elements in an array.
+5. Write a program to find the second largest element in an array.
+6. Write a program to sort an array in ascending order.
+7. Write a program to sort an array in descending order.
+8. Write a program to reverse an array.
+9. Write a program to find the frequency of an element in an array.
+10. Write a program to remove duplicates from an array.
+11. Write a program to check if two arrays are equal or not.
+12. Write a program to merge two sorted arrays.
+13. Write a program to rotate an array to the left.
+14. Write a program to rotate an array to the right.
+15. Write a program to find the smallest element in an array.
+16. Write a program to check if an array is sorted or not.
+17. Write a program to find the maximum product of any two elements in an array.
+18. Write a program to find the minimum difference between any two elements in an array.
+19. Write a program to find the first missing positive integer in an array.
+20. Write a program to move all negative numbers to the beginning of an array.
+21. Write a program to move all zeros to the end of an array.
+22. Write a program to find the largest sum subarray in an array.
+23. Write a program to find the smallest sum subarray in an array.
+24. Write a program to find the maximum difference between any two elements in an array.
+25. Write a program to find the minimum difference between any two elements in two arrays.
+
 ### OOP (Beginner level)
 1. Create a class for a calculator with properties such as current value and operation, and methods such as add and subtract.
 2. Create a class for a bank account with properties such as account number, balance, and owner.
