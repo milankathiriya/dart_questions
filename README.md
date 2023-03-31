@@ -48,6 +48,7 @@
 23. Write a program to find the smallest sum subarray in an array.
 24. Write a program to find the maximum difference between any two elements in an array.
 25. Write a program to find the minimum difference between any two elements in two arrays.
+26. Write a program to perform CRUD operations on a given array using menu-driven program.
 
 ### OOP (Beginner level)
 1. Create a class for a calculator with properties such as current value and operation, and methods such as add and subtract.
