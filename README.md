@@ -1,5 +1,27 @@
 # Dart Programs
 
+### Looping
+1. Write a program to calculate the sum of even numbers between 1 and 100 using a loop.
+2. Write a program to calculate the sum of all numbers between two inputted numbers using a loop.
+3. Write a program to generate the first n terms of the Fibonacci sequence using a loop.
+4. Write a program to check if a given number is a palindrome or not using a loop.
+5. write a program to find all leap years between 2020 to 2080 using a loop.
+6. Write a program to find the sum of all prime numbers between two inputted numbers using a loop.
+7. Write a program to check if a given number is a prime number or not using a loop.
+8. Write a program to find the factorial of a given number using a loop.
+9. Write a program to reverse the digits of a given number using a loop.
+10. Write a program to count the number of digits in a given number using a loop.
+11. Write a program to calculate the sum of digits in a given number using a loop.
+12. Write a program to check if a given string is a palindrome or not using a loop.
+13. Write a program to print the sum of the digits of a given number until the sum is a single digit using a loop.
+14. Write a program to find the largest and smallest numbers in an inputted list using a loop.
+15. Write a program to sort an inputted list in ascending order using a loop.
+16. Write a program to find the GCD (Greatest Common Divisor) of two inputted numbers using a loop.
+17. Write a program to find the LCM (Least Common Multiple) of two inputted numbers using a loop.
+18. Write a program to convert a decimal number to binary using a loop.
+19. Write a program to convert a binary number to decimal using a loop.
+20. Write a program to generate a list of all possible combinations of the elements of an inputted list using a loop.
+
 ### OOP (Beginner level)
 1. Create a class for a calculator with properties such as current value and operation, and methods such as add and subtract.
 2. Create a class for a bank account with properties such as account number, balance, and owner.
